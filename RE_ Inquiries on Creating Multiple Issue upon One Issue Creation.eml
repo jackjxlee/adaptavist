@@ -1,0 +1,178 @@
+Subject: RE: Inquiries on Creating Multiple Issue upon One Issue Creation
+Thread-Topic: Inquiries on Creating Multiple Issue upon One Issue Creation
+Thread-Index: AQHagnjGXfcWZNrv70yYLoR7KJ/BRw==
+Date: Sat, 30 Mar 2024 08:03:40 +0000
+Message-ID:
+	<SEZPR06MB61375BB014F0E5AD75C6543D97392@SEZPR06MB6137.apcprd06.prod.outlook.com>
+Content-Language: en-MY
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator:
+X-MS-Exchange-Organization-RecordReviewCfmType: 0
+msip_labels:
+Content-Type: multipart/mixed;
+	boundary="_004_SEZPR06MB61375BB014F0E5AD75C6543D97392SEZPR06MB6137apcp_"
+MIME-Version: 1.0
+
+--_004_SEZPR06MB61375BB014F0E5AD75C6543D97392SEZPR06MB6137apcp_
+Content-Type: multipart/alternative;
+	boundary="_000_SEZPR06MB61375BB014F0E5AD75C6543D97392SEZPR06MB6137apcp_"
+
+--_000_SEZPR06MB61375BB014F0E5AD75C6543D97392SEZPR06MB6137apcp_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Hello Suhanisa,
+
+Thank you for reaching out regarding your request to create multiple issues=
+ upon one issue creation using a Script Listener. I understand the urgency =
+of your situation, and I'm happy to assist you with this.
+
+Attached is the script that you can use in your Script Listener to automati=
+cally create the specified subtasks and link them to the "Bug" issue withou=
+t blocking the "Bug" issue creation.
+
+This script will create the specified subtasks and task issue upon the crea=
+tion of the "Bug" issue, and it will not block the "Bug" issue creation pro=
+cess.
+
+If you have any further questions or need additional assistance, please let=
+ me know. I'm here to help.
+
+
+
+Best Regards,
+Jack Lee Jing Xian
+Software Support Engineer @ Adaptavist
+
+--_000_SEZPR06MB61375BB014F0E5AD75C6543D97392SEZPR06MB6137apcp_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style type=3D"text/css" style=3D"display:none;"> P {margin-top:0;margin-bo=
+ttom:0;} </style>
+</head>
+<body dir=3D"ltr">
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+Hello Suhanisa,</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+<br>
+</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+Thank you for reaching out regarding your request to create multiple issues=
+ upon one issue creation using a Script Listener. I understand the urgency =
+of your situation, and I'm happy to assist you with this.</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+<br>
+</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+Attached is the script that you can use in your Script Listener to automati=
+cally create the specified subtasks and link them to the &quot;Bug&quot; is=
+sue without blocking the &quot;Bug&quot; issue creation.</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+<br>
+</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+This script will create the specified subtasks and task issue upon the crea=
+tion of the &quot;Bug&quot; issue, and it will not block the &quot;Bug&quot=
+; issue creation process.</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+<br>
+</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+If you have any further questions or need additional assistance, please let=
+ me know. I'm here to help.<br>
+<br>
+</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+<br>
+</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+<br>
+</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+Best Regards,</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+Jack Lee Jing Xian</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+Software Support Engineer @ Adaptavist</div>
+</body>
+</html>
+
+--_000_SEZPR06MB61375BB014F0E5AD75C6543D97392SEZPR06MB6137apcp_--
+
+--_004_SEZPR06MB61375BB014F0E5AD75C6543D97392SEZPR06MB6137apcp_
+Content-Type: application/octet-stream;
+	name="SR-Listener(Support Question).groovy"
+Content-Description: SR-Listener(Support Question).groovy
+Content-Disposition: attachment;
+	filename="SR-Listener(Support Question).groovy"; size=2056;
+	creation-date="Sat, 30 Mar 2024 08:04:30 GMT";
+	modification-date="Sat, 30 Mar 2024 08:04:40 GMT"
+Content-Transfer-Encoding: base64
+
+aW1wb3J0IGNvbS5hdGxhc3NpYW4uamlyYS5pc3N1ZS5Jc3N1ZUlucHV0UGFyYW1ldGVyc0ltcGwN
+CmltcG9ydCBjb20uYXRsYXNzaWFuLmppcmEuY29tcG9uZW50LkNvbXBvbmVudEFjY2Vzc29yDQpp
+bXBvcnQgY29tLmF0bGFzc2lhbi5qaXJhLmlzc3VlLklzc3VlDQoNCklzc3VlIGlzc3VlID0gZXZl
+bnQuZ2V0SXNzdWUoKQ0KaWYgKGlzc3VlLmlzc3VlVHlwZS5uYW1lICE9ICJCdWciKSB7DQogICAg
+cmV0dXJuDQp9DQpjcmVhdGVTdWJ0YXNrKGlzc3VlLCAiUmVwcm9kdWN0aW9uIHN0ZXBzIikNCmNy
+ZWF0ZVN1YnRhc2soaXNzdWUsICJVQVQiKQ0KY3JlYXRlVGFzayhpc3N1ZSwgIkNvc3QgaW4gaG91
+cnMiKQ0KDQpkZWYgY3JlYXRlU3VidGFzayhJc3N1ZSBwYXJlbnRJc3N1ZSwgU3RyaW5nIHN1YlRh
+c2tTdW1tYXJ5KSB7DQogICAgZGVmIHN1YlRhc2tNYW5hZ2VyID0gQ29tcG9uZW50QWNjZXNzb3Iu
+c3ViVGFza01hbmFnZXINCiAgICBkZWYgYXNVc2VyID0gQ29tcG9uZW50QWNjZXNzb3IuamlyYUF1
+dGhlbnRpY2F0aW9uQ29udGV4dC5sb2dnZWRJblVzZXINCiAgICBkZWYgY29uc3RhbnRzTWFuYWdl
+ciA9IENvbXBvbmVudEFjY2Vzc29yLmNvbnN0YW50c01hbmFnZXINCiAgICBkZWYgaXNzdWVTZXJ2
+aWNlID0gQ29tcG9uZW50QWNjZXNzb3IuaXNzdWVTZXJ2aWNlDQoNCiAgICBkZWYgc3VidGFza0lz
+c3VlVHlwZSA9IGNvbnN0YW50c01hbmFnZXIuYWxsSXNzdWVUeXBlT2JqZWN0cy5maW5kQnlOYW1l
+KCdTdWItdGFzaycpDQoNCiAgICBhc3NlcnQgc3VidGFza0lzc3VlVHlwZT8uc3ViVGFzaw0KDQog
+ICAgLy8gRmlsbCB0aGUgcmVxdWlyZWQgZmllbGRzDQogICAgZGVmIGlzc3VlSW5wdXRQYXJhbWV0
+ZXJzID0gbmV3IElzc3VlSW5wdXRQYXJhbWV0ZXJzSW1wbCgpDQogICAgaXNzdWVJbnB1dFBhcmFt
+ZXRlcnMNCiAgICAgICAgLnNldFByb2plY3RJZChwYXJlbnRJc3N1ZS5wcm9qZWN0SWQpDQogICAg
+ICAgIC5zZXRJc3N1ZVR5cGVJZChzdWJ0YXNrSXNzdWVUeXBlLmlkKQ0KICAgICAgICAuc2V0U3Vt
+bWFyeShwYXJlbnRJc3N1ZS5zdW1tYXJ5ICsgIjogIiArIHN1YlRhc2tTdW1tYXJ5KQ0KICAgICAg
+ICAuc2V0UmVwb3J0ZXJJZChhc1VzZXIudXNlcm5hbWUpDQoNCiAgICBkZWYgY3JlYXRlVmFsaWRh
+dGlvblJlc3VsdCA9IENvbXBvbmVudEFjY2Vzc29yLmlzc3VlU2VydmljZS52YWxpZGF0ZVN1YlRh
+c2tDcmVhdGUoYXNVc2VyLCBwYXJlbnRJc3N1ZS5pZCwgaXNzdWVJbnB1dFBhcmFtZXRlcnMpDQog
+ICAgaWYgKCFjcmVhdGVWYWxpZGF0aW9uUmVzdWx0LnZhbGlkKSB7DQogICAgICAgIGxvZy5lcnJv
+ciBjcmVhdGVWYWxpZGF0aW9uUmVzdWx0LmVycm9yQ29sbGVjdGlvbg0KICAgICAgICByZXR1cm4N
+CiAgICB9DQoNCiAgICBkZWYgc3ViSXNzdWUgPSBpc3N1ZVNlcnZpY2UuY3JlYXRlKGFzVXNlciwg
+Y3JlYXRlVmFsaWRhdGlvblJlc3VsdCkuaXNzdWUNCiAgICBzdWJUYXNrTWFuYWdlci5jcmVhdGVT
+dWJUYXNrSXNzdWVMaW5rKHBhcmVudElzc3VlLCBzdWJJc3N1ZSwgYXNVc2VyKQ0KfQ0KDQpkZWYg
+Y3JlYXRlVGFzayhJc3N1ZSBwYXJlbnRJc3N1ZSwgU3RyaW5nIHN1YlRhc2tTdW1tYXJ5KSB7DQog
+ICAgZGVmIHRhc2tJc3N1ZSA9IElzc3Vlcy5jcmVhdGUocGFyZW50SXNzdWUucHJvamVjdE9iamVj
+dC5nZXRLZXkoKSwgIlRhc2siKSB7DQogICAgICAgIHNldFN1bW1hcnkoaXNzdWUuc3VtbWFyeSAr
+ICI6ICIgKyBzdWJUYXNrU3VtbWFyeSkNCiAgICB9DQogICAgcGFyZW50SXNzdWUubGluaygiaXMg
+Y2F1c2VkIGJ5IiwgdGFza0lzc3VlKQ0KfQ==
+
+--_004_SEZPR06MB61375BB014F0E5AD75C6543D97392SEZPR06MB6137apcp_--
